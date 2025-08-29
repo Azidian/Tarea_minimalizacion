@@ -2,8 +2,7 @@
 # Formal Languages
 ## Assignment 1 – DFA Minimization (Kozen’s Algorithm, Lecture 14)
 
-**Student:**  Isabella Cadavid Posada 
-**Student:**  Wendy Vanessa Atehortua Chaverra 
+**Students:**  Isabella Cadavid Posada, Wendy Vanessa Atehortua Chaverra 
 
 **Class Number:** C2566-SI20 
 
